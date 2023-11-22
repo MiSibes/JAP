@@ -1,2 +1,0 @@
-# JAP
-Jovenes a programar
